@@ -33,7 +33,7 @@ TARGET_RECOVERY_DEVICE_MODULES := libinit_ginkgo
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/xiaomi/ginkgo
-TARGET_KERNEL_CONFIG := vendor/ginkgo-perf_defconfig
+TARGET_KERNEL_CONFIG := artemis_ginkgo_defconfig
 
 # NFC
 TARGET_USES_NQ_NFC := true
